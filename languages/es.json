@@ -1,0 +1,72 @@
+{
+    "head": {
+        "title": "Angel Reyes | Portafolio"
+    },
+    "header": {
+        "home_nav": "INICIO",
+        "about_nav": "SOBRE MI",
+        "skills_nav": "HABILIDADES",
+        "porfolio_nav": "PORTAFOLIO",
+        "contact_nav": "CONTACTO"
+    },
+    "home": {
+        "home_title1": "¡H",
+        "home_title2": "o",
+        "home_title3": "l",
+        "home_title4": "a!",
+        "home__scroll": "<i class='bx bx-up-arrow-alt bx-xl'></i>Desliza "
+    },
+    "about": {
+        "about_title": "Sobre mi",
+        "about_subtitle": "Soy Angel Reyes",
+        "about_profession": "Diseñador web",
+        "about_text": "Soy un apasionado programador de 19 años especializado en Front-end. Estudiante de la Universidad Autónoma de Querétaro, he adquirido sólidos conocimientos en tecnologías web modernas y diseño de interfaces de usuario atractivas y funcionales."
+    },
+    "text_decoration": {
+        "sentence": " 'El código es poesía en movimiento' - Joyjit Roy Chowdhury"
+    },
+    "skills": {
+        "skills_title": "Mis habilidades",
+        "skills__subtitle1": "Resolución de problemas",
+        "skills_p1": "Soy capaz de identificar y abordar desafíos de manera eficiente y creativa. Utilizo un enfoque lógico y estructurado para analizar problemas complejos y encontrar soluciones efectivas.",
+        "skills__subtitle2": "Trabajo en equipo",
+        "skills_p2": "Soy un colaborador excepcional y puedo trabajar eficazmente con otros programadores, diseñadores y profesionales en proyectos conjuntos. Me comunico de manera efectiva y comparto ideas de manera clara para lograr objetivos comunes.",
+        "skills__subtitle3": "Pensamiento lógico",
+        "skills_p3": "Poseo una mente analítica y estructurada, lo que me permite abordar problemas de programación de manera lógica. Soy capaz de descomponer problemas en partes más pequeñas y encontrar patrones y soluciones eficientes.",
+        "skills__subtitle4": "Comunicación efectiva",
+        "skills_p4": "Poseo habilidades de comunicación tanto oral como escrita. Puedo expresar mis ideas de manera clara y concisa, documentar mi código de manera efectiva y colaborar con otros miembros del equipo de manera fluida.",
+        "skills__subtitle5": "Adaptabilidad y aprendizaje continuo",
+        "skills_p5": "Me destaco por mi capacidad para adaptarme rápidamente a nuevos entornos y tecnologías. Estoy siempre dispuesto a aprender de forma continua y tengo una mentalidad abierta para adquirir nuevos conocimientos y habilidades en respuesta a los cambios en la industria de la programación.",
+        "skills__subtitle6": "Pensamiento crítico",
+        "skills_p6": "Soy capaz de evaluar diferentes soluciones y tomar decisiones informadas. Analizo las ventajas y desventajas de diferentes enfoques y puedo proponer mejoras o alternativas fundamentadas.",
+        "skills__subtitle7": "Gestión del tiempo",
+        "skills_p7": "Soy un profesional organizado y capaz de gestionar eficientemente mi tiempo. Establezco prioridades, cumplo con los plazos y administro proyectos de manera efectiva para mantener un rendimiento óptimo en mi trabajo."
+    },
+    "technologies": {
+        "technologies_title": "Tecnologías"
+    },
+    "languages": {
+        "languagues_title": "Idiomas"
+    },
+    "portfolio": {
+        "portfolio_title": "Portafolio",
+        "portfolio_details": "Ver detalles"
+    },
+    "contact": {
+        "contact_title": "Contacto",
+        "contact_email": "CORREO",
+        "contact_phone": "TELÉFONO",
+        "contact_address": "DIRECCIÓN",
+        "contact_addresstxt": "México"
+    },
+    "footer": {
+        "footer_description": "Soy Luis Angel y este es mi portafolio web.",
+        "footer_content": "CONTENIDO",
+        "footer_home": "Inicio",
+        "footer_about": "Sobre mi",
+        "footer_skills": "Habilidades",
+        "footer_portfolio": "Portafolio",
+        "footer_contact": "Contacto",
+        "footer_follow": "SÍGUEME"
+    }
+}

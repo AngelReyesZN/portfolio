@@ -1,0 +1,72 @@
+{
+    "head": {
+        "title": "Angel Reyes | Portfolio"
+    },
+    "header": {
+        "home_nav": "HOME",
+        "about_nav": "ABOUT",
+        "skills_nav": "SKILLS",
+        "porfolio_nav": "PORTFOLIO",
+        "contact_nav": "CONTACT"
+    },
+    "home": {
+        "home_title1": "¡H",
+        "home_title2": "e",
+        "home_title3": "ll",
+        "home_title4": "o!",
+        "home__scroll": "<i class='bx bx-up-arrow-alt bx-xl'></i> Scroll down "
+    },
+    "about": {
+        "about_title": "About",
+        "about_subtitle": "I'm Angel Reyes",
+        "about_profession": "Web designer",
+        "about_text": "I'm a passionate 19 year old programmer specialized in Front-end. A student at the Universidad Autónoma de Querétaro, I have acquired solid knowledge in modern web technologies and design of attractive and functional user interfaces."
+    },
+    "text_decoration": {
+        "sentence": " 'Code is poetry in motion' - Joyjit Roy Chowdhury."
+    },
+    "skills": {
+        "skills_title": "Skills",
+        "skills__subtitle1": "Problem-solving",
+        "skills_p1": "I am capable of identifying and addressing challenges efficiently and creatively. I employ a logical and structured approach to analyze complex problems and find effective solutions.",
+        "skills__subtitle2": "Teamwork",
+        "skills_p2": "I am an exceptional collaborator and can work effectively with other programmers, designers, and professionals on joint projects. I communicate effectively and share ideas clearly to achieve common goals.",
+        "skills__subtitle3": "Logical thinking",
+        "skills_p3": "I possess an analytical and structured mind, which allows me to approach programming problems logically. I am capable of breaking down problems into smaller parts and finding patterns and efficient solutions.",
+        "skills__subtitle4": "Effective communication",
+        "skills_p4": "I possess strong communication skills, both oral and written. I can express my ideas clearly and concisely, document my code effectively, and collaborate smoothly with other team members.",
+        "skills__subtitle5": "Adaptability and continuous learning",
+        "skills_p5": "I stand out for my ability to quickly adapt to new environments and technologies. I am always willing to learn continuously and have an open mindset to acquire new knowledge and skills in response to changes in the programming industry.",
+        "skills__subtitle6": "Critical thinking",
+        "skills_p6": "I am able to evaluate different solutions and make informed decisions. I analyze the advantages and disadvantages of different approaches and can propose improvements or alternative solutions based on sound reasoning.",
+        "skills__subtitle7": "Time management",
+        "skills_p7": "I am an organized professional capable of efficiently managing my time. I prioritize tasks, meet deadlines, and effectively handle projects to maintain optimal performance in my work."
+    },
+    "technologies": {
+        "technologies_title": "Technologies"
+    },
+    "languages": {
+        "languagues_title": "Languages"
+    },
+    "portfolio": {
+        "portfolio_title": "Portfolio",
+        "portfolio_details": "Details"
+    },
+    "contact": {
+        "contact_title": "Contact",
+        "contact_email": "EMAIL",
+        "contact_phone": "PHONE NUMBER",
+        "contact_address": "ADDRESS",
+        "contact_addresstxt": "Mexico"
+    },
+    "footer": {
+        "footer_description": "I'm Luis Angel, and this is my web portfolio.",
+        "footer_content": "CONTENT",
+        "footer_home": "Home",
+        "footer_about": "About",
+        "footer_skills": "Skills",
+        "footer_portfolio": "Portfolio",
+        "footer_contact": "Contact",
+        "footer_follow": "FOLLOW"
+    }
+}
